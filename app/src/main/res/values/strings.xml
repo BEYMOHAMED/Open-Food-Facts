@@ -1,3 +1,23 @@
 <resources>
     <string name="app_name">Open Food Facts</string>
+    <string name="fiche_tab">Fiche</string>
+    <string name="nutrition_tab">Nutrition</string>
+    <string name="tableau_tab">Tableau</string>
+    <string name="nuti_score_title">Nutri-Score</string>
+    <string name="groupe_nova_title">Groupe NOVA</string>
+    <string name="groupe_nova_1">Aliments non transformés ou transformés minimalement</string>
+    <string name="groupe_nova_2">Ingrédients culinaires transformés</string>
+    <string name="groupe_nova_3">Aliments transformés</string>
+    <string name="groupe_nova_4">Produits alimentaires et boissons ultra-transformés</string>
+    <string name="Information_vegetalien">Végétalien</string>
+    <string name="Information_vegetarien">Végétarien</string>
+    <string name="Information_quantite">Quantité</string>
+    <string name="Information_vendu">Vendu</string>
+    <string name="Information_ingredients">Ingrédients</string>
+    <string name="Information_substances">Substances allergènes</string>
+    <string name="Information_additifs">Additifs</string>
+
+
+
+
 </resources>

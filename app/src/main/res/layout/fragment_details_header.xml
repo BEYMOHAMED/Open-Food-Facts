@@ -8,26 +8,22 @@
         android:id="@+id/title"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
-        android:textSize="15sp"
+        android:textSize="28sp"
         android:textColor="@color/blue"
         android:textStyle="bold"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        android:text="Nutri-Score" />
-
-    <View
-        android:layout_width="1dp"
-        android:layout_height="100dp"/>
+        android:text="Petits pois et carrottes" />
 
     <TextView
         android:id="@+id/subtitle"
         android:layout_width="0dp"
-        android:textSize="13sp"
+        android:textSize="17sp"
         android:textColor="@color/gray_2"
         android:layout_height="wrap_content"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/title"
         android:layout_marginTop="10dp"
-        android:text="Groupe NOVA" />
+        android:text="Cassegrain" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
